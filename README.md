@@ -3,7 +3,7 @@ Eu sou a Larissa ou só Lari 🌻🌈
 
 - 🔭 Estou em transição de carreira;
 - 💻 Aprendendo Front-End;
-- 🌱 Estou estudando React no momento;
+- 🌱 Estou estudando React e TypeScript no momento;
 - 📫 Contate-me no e-mail: larissacampeloalves@gmail.com;
 - 😄 Pronomes: a/ela/dela
 
